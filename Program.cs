@@ -46,8 +46,9 @@ while (playAgain != "no")
     Console.WriteLine("I then woke up.....it was just a silly dream.");
     Console.WriteLine("");
     
-Console.WriteLine("Thanks for playing! Would you like to play again? yes or no");
-playAgain = Console.ReadLine();
+Console.WriteLine("Thanks for playing!\n");
+Console.WriteLine("Press any key to play again or Type no.....");
+playAgain = Console.ReadLine().ToLower();
 }
 
 Console.WriteLine("Thanks for playing!");
