@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-madLib/lamzonJ-madLib.csproj": {}
+    "/Users/arelymartinez/Desktop/GitRepository/lamzonJ-madLib/lamzonJ-madLib.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-madLib/lamzonJ-madLib.csproj": {
+    "/Users/arelymartinez/Desktop/GitRepository/lamzonJ-madLib/lamzonJ-madLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-madLib/lamzonJ-madLib.csproj",
+        "projectUniqueName": "/Users/arelymartinez/Desktop/GitRepository/lamzonJ-madLib/lamzonJ-madLib.csproj",
         "projectName": "lamzonJ-madLib",
-        "projectPath": "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-madLib/lamzonJ-madLib.csproj",
-        "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-madLib/obj/",
+        "projectPath": "/Users/arelymartinez/Desktop/GitRepository/lamzonJ-madLib/lamzonJ-madLib.csproj",
+        "packagesPath": "/Users/arelymartinez/.nuget/packages/",
+        "outputPath": "/Users/arelymartinez/Desktop/GitRepository/lamzonJ-madLib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/user/.nuget/NuGet/NuGet.Config"
+          "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
